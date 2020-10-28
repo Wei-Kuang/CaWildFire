@@ -28,12 +28,12 @@ A density plot of fire incidence was plotted against time series (x axis). There
 
 
 ## The chances of fire incidents in June-May was 10% more after year 2009. 
-<img src="image/stackedbarplot.png">
+<img src="image/stackedbarplot.png"  height="400">
 
 
 ## Which area tends are likely to have wild fire?
 North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
 
-<img src="image/FireMap.png"  height="800">
+<img src="image/FireMap.png"  height="700">
  
 ## Limitation
