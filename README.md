@@ -18,7 +18,6 @@ It seems that there is an increasing trend of fire incidents from year 2007 to 2
 A density plot of fire incidence was plotted against time series (x axis). There is a clearly window of fire incident between July and October.  
 <img src="image/FireSta_output.gif" height="400">
 
-## When is the peak of California wildfire of a year? 
 
 ## The chances of fire incidents in June-May was 10% more after year 2009. 
  
