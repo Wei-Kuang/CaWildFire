@@ -6,6 +6,7 @@ This is an overview of the number of wild fire incident and acres burned along s
 
 ## Code and Resources Used 
 **Data:** CAL FIRE https://www.fire.ca.gov/incidents/  The data is listed in the bottom of the page. Two type of data files are available (Excel or JSON API). For some reason, the JSON API provided more data points from 2007 to present and  thus was used for this analysis.
+
 **Packages:** dplyr, rjson, tidyverse, ggplot2, gganimate, gifski, transformr
 
 
