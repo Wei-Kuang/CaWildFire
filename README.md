@@ -18,7 +18,7 @@ This is an overview of the number of wild fire incident and acres burned along s
 ## Is there an trend of occurrence or the total burned acres over the years?
 It seems that there is an increasing trend of fire incidents from year 2007 to 2017. The maximum of total number of occurrence was 330 in year 2017. However, we need to be aware that the improvement in monitoring system would allow us to have more observed fire incidents.
 
-<img src="image/total_fire.png" height="400"> 
+<img src="image/total_fire.png" height="380"> 
 
 
 ## When is the peak of California wildfire of a year? 
