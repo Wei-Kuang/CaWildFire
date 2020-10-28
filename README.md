@@ -28,7 +28,7 @@ A density plot of fire incidence was plotted against time series (x axis). There
 
 
 ## The chances of fire incidents in June-May was 10% more after year 2009. 
-<img src="image/stackedbarplot.png"  height="400">
+<img src="image/stackedbarplot.png"  height="500">
 
 
 ## Which area tends are likely to have wild fire?
