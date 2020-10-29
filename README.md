@@ -29,7 +29,7 @@ A density plot of fire incidence was plotted against time series (x axis). There
 
 
 
-## The chances of fire incidents in June-May was 10% more after year 2009. 
+## The chances of fire incidents in June-May from 2010 to 2019 was 10% more, compared to 2006-2009 
 <img src="image/stackedbarplot.png"  height="500">
 
 
