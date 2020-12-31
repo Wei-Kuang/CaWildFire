@@ -5,13 +5,8 @@ This is an overview of the number of wild fire incident and acres burned along s
 
 
 ## Code and Resources Used 
-**Data:** CAL FIRE https://www.fire.ca.gov/incidents/  The data is listed in the bottom of the page.  
+**Data:** [CAL FIRE] (https://www.fire.ca.gov/incidents/)  The data is listed in the bottom of the page.  
 **Packages:** dplyr, rjson, tidyverse, ggplot2, gganimate, gifski, transformr
-
-
-## Data Cleaning and Recoding
-* Parsed numeric date into year, month, and date
-* Categorized acres burned and date
 
 
 ## Is there an trend of occurrence or the total burned acres over the years?
