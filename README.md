@@ -11,9 +11,8 @@ This is an overview of the number of wild fire incident and acres burned along s
 
 ## Is there an trend of California wild fire over the years?
 
-**A density plot of wild fire incidence was plotted against time series (x axis).** 
-The peak of California wild fire was between July and Octorber
-
+#### The peak of California wild fire was between July and Octorber
+A density plot of wild fire incidence was plotted against time series (x axis).
 <img src="image/FireSta_output.gif" height="400">
 <img src="image/Density_over_years.png" height="400">
 
