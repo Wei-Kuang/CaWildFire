@@ -1,12 +1,11 @@
 # California Fire: Project Overview 
 This is an overview of the number of wild fire incident and acres burned along seasons and years. The goal of this project is to answer the following questions.
-* Is there an trend of incident or the total burned acres over the years?
+* Is there an trend of California wild fire over the years?
 * Which area tends are likely to have wild fire?
 
 
 ## Code and Resources Used 
-**Data:** CAL FIRE https://www.fire.ca.gov/incidents/  The data is listed in the bottom of the page. Two type of data files are available (Excel or JSON API). For some reason, the JSON API provided more data points from 2007 to present and  thus was used for this analysis.
-
+**Data:** CAL FIRE https://www.fire.ca.gov/incidents/  The data is listed in the bottom of the page.  
 **Packages:** dplyr, rjson, tidyverse, ggplot2, gganimate, gifski, transformr
 
 
