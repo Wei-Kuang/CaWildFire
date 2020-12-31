@@ -12,10 +12,10 @@ This is an overview of the number of wild fire incident and acres burned along s
 ## Is there an trend of California wild fire over the years?
 
 **A density plot of wild fire incidence was plotted against time series (x axis).** 
-There is a clearly window of fire incident between July and October.  
+The peak of California wild fire was between July and Octorber
 
 <img src="image/FireSta_output.gif" height="400">
-<img src="image/Rplot.png" height="400">
+<img src="image/Density_over_years.png" height="400">
 
 It seems that there is an increasing trend of fire incidents from year 2007 to 2017. The maximum of total number of occurrence was 330 in year 2017. However, we need to be aware that the improvement in monitoring system would allow us to have more observed fire incidents.
 
