@@ -21,6 +21,7 @@ The chances of fire incidents in June-May (peachpuff color) 10% more after 2009.
 
 ## Which area tends are likely to have wild fire?
 North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
+
 <img src="image/FireMap.png"  height="500">
 
 
