@@ -5,9 +5,6 @@ This is an overview of the number of wild fire incident and acres burned along s
 **Data:** CAL FIRE (https://www.fire.ca.gov/incidents/). The dataset is listed in the bottom of the page.  
 **Packages:** dplyr, rjson, tidyverse, ggplot2, gganimate, gifski, transformr
 
-
-## Is there an trend of California wild fire over the years?
-
 #### The peak of California wild fire was between July and Octorber.
 <img src="image/FireSta_output.gif" height="400">
 <img src="image/Density_over_years.png" height="400">
@@ -18,7 +15,8 @@ The Paradise wildfire was in 2018. Then, California's August Complex fire wildfi
 <img src="image/totalacresburned_by_year.png" height="380"> 
 
 
-#### The chances of fire incidents in June-May from 2010 to 2019 was 10% more, compared to 2006-2009 
+#### The wildfire season might start earlier, compared to 2006-2009
+The chances of fire incidents in June-May (peachpuff color) 10% more after 2009.
 <img src="image/StackBarplot.png"  height="500">
 
 
