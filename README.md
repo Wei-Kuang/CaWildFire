@@ -5,7 +5,7 @@ This is an overview of the number of wild fire incident and acres burned along s
 
 
 ## Code and Resources Used 
-**Data:** [CAL FIRE] (https://www.fire.ca.gov/incidents/)  The data is listed in the bottom of the page.  
+**Data:** CAL FIRE (https://www.fire.ca.gov/incidents/)  The dataset is listed in the bottom of the page.  
 **Packages:** dplyr, rjson, tidyverse, ggplot2, gganimate, gifski, transformr
 
 
