@@ -16,15 +16,20 @@ A density plot of wild fire incidence was plotted against time series (x axis).
 <img src="image/FireSta_output.gif" height="400">
 <img src="image/Density_over_years.png" height="400">
 
+
+#### Total acres burned by year
 It seems that there is an increasing trend of fire incidents from year 2007 to 2017. The maximum of total number of occurrence was 330 in year 2017. However, we need to be aware that the improvement in monitoring system would allow us to have more observed fire incidents.
 
-<img src="image/total_fire.png" height="380"> 
-
-## The chances of fire incidents in June-May from 2010 to 2019 was 10% more, compared to 2006-2009 
-<img src="image/stackedbarplot.png"  height="500">
+<img src="image/totalacresburned_by_year.png" height="380"> 
 
 
-## Which area tends are likely to have wild fire?
+
+
+#### The chances of fire incidents in June-May from 2010 to 2019 was 10% more, compared to 2006-2009 
+<img src="image/StackBarplot.png"  height="500">
+
+
+#### Which area tends are likely to have wild fire?
 North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
 
 <img src="image/FireMap.png"  height="700">
