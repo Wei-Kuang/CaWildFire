@@ -1,5 +1,8 @@
 # California Fire: Project Overview 
 
+
+
+<img src="michael-held-Of-NXuECJbE-unsplash.jpg" height="400">
 Photo by <a href="https://unsplash.com/@michaelheld?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Held</a> on <a href="https://unsplash.com/s/photos/wildfire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
