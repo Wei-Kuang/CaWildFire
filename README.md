@@ -2,6 +2,13 @@
 This is an overview of the number of wild fire incident and acres burned along seasons and years. The goal of this project is to answer whether there is an trend of California wild fire over the years?
 
 
+## Which area tends are likely to have wild fire?
+North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
+
+<img src="image/FireMap.png"  height="500">
+
+
+
 <img src="image/michael-held-Of-NXuECJbE-unsplash.jpg" width="700">
 Photo by <a href="https://unsplash.com/@michaelheld?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Held</a> on <a href="https://unsplash.com/s/photos/wildfire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -26,10 +33,6 @@ The chances of fire incidents in June-May (peachpuff color) 10% more after 2009.
 <img src="image/StackBarplot.png"  height="500">
 
 
-## Which area tends are likely to have wild fire?
-North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
-
-<img src="image/FireMap.png"  height="500">
 
 
 #### Code and Resources Used 
