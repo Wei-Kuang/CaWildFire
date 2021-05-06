@@ -1,4 +1,4 @@
-# California Fire: Project Overview 
+# California Fire Analysis
 This is an overview of the number of wild fire incident and acres burned along seasons and years. The goal of this project is to answer whether there is an trend of California wild fire over the years?
 
 
