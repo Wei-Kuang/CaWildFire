@@ -5,7 +5,7 @@ This is an overview of the number of wild fire incident and acres burned along s
 ## Which area tends are likely to have wild fire?
 North California tends to have larger fire. Most fire happens  at mountain area. The central valley is relatively safer. Note: complete latitude and longitude were only available from 2013 to present. 
 
-<img src="image/FireMap.png"  height="300"> 
+<img src="image/FireMap.png"  height="600"> 
 
 <img src="image/michael-held-Of-NXuECJbE-unsplash.jpg" height="300">
 Photo by <a href="https://unsplash.com/@michaelheld?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Held</a> on <a href="https://unsplash.com/s/photos/wildfire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
